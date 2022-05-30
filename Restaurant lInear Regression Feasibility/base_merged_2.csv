@@ -1,0 +1,405 @@
+id,Name,Cuisine,Ratings,Reviews,Price_Rng,Zip-Code,State,City,NumberReturns,AdjustedGross Income,IncomeperReturn,SalaryperReturn,TaxPaidperReturn,MTW Status
+106,The White Bull,American (New),4.5,304,2,30030,GEORGIA,Decatur,"12,299","530,683","$43,148 ","$37,815 ","$7,733 ",Matching
+652,Farmed Kitchen and Bar,American (New),5,53,2,30084,GEORGIA,Tucker,"15,589","677,729","$43,475 ","$37,451 ","$7,290 ",Matching
+605,Kenley's,American (New),4.5,35,1,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+673,Boone's,American (New),4,29,2,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+346,Establishment,American (New),3.5,233,2,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+560,Flying Biscuit Caf,American (New),3.5,539,2,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+40,Industry Tavern,American (New),4,556,2,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+233,Lilys Restaurant & Lounge,American (New),3.5,109,2,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+655,Onyx,American (New),4,23,2,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+432,Fia Restaurant,American (New),4.5,106,3,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+428,King + Duke,American (New),4,907,3,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+260,The Family Dog,American (New),3.5,120,2,30306,GEORGIA,Atlanta,"12,266","840,840","$68,550 ","$55,718 ","$14,516 ",Matching
+66,Whiskey Bird,American (New),4.5,485,2,30306,GEORGIA,Atlanta,"12,266","840,840","$68,550 ","$55,718 ","$14,516 ",Matching
+107,Georgia Boy,American (New),4.5,16,4,30306,GEORGIA,Atlanta,"12,266","840,840","$68,550 ","$55,718 ","$14,516 ",Matching
+526,Southern Belle,American (New),4.5,96,4,30306,GEORGIA,Atlanta,"12,266","840,840","$68,550 ","$55,718 ","$14,516 ",Matching
+445,Double Zero,American (New),4,203,2,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+219,Lazy Betty,American (New),4.5,180,4,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+709,Hop's Chicken,American (New),3,525,1,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+135,gusto!,American (New),4.5,476,1,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+499,Twisted Kitchen,American (New),3,63,1,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+152,Kat's Cafe,American (New),4,239,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+511,Marlow's Tavern,American (New),4,610,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+552,The Lawrence,American (New),4,732,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+342,Saints + Council,American (New),4,62,3,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+180,One Flew South,American (New),4.5,1097,2,30320,GEORGIA,Atlanta,135,"8,699","$64,437 ","$59,922 ","$10,628 ",Matching
+278,Salad Express,American (New),4,134,1,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+181,The Pup Truck,American (New),4,35,1,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+288,Mission + Market,American (New),4,253,2,30326,GEORGIA,Atlanta,"1,688","151,035","$89,476 ","$117,370 ","$32,505 ",Matching
+176,Seven Lamps,American (New),4,962,2,30326,GEORGIA,Atlanta,"1,688","151,035","$89,476 ","$117,370 ","$32,505 ",Matching
+46,5Church Midtown,American (New),4,1076,2,30361,GEORGIA,Atlanta,50,"3,904","$78,080 ","$142,500 ","$20,643 ",Matching
+607,The Grove Restaurant & Tavern,American (Traditional),3.5,155,2,30033,GEORGIA,Decatur,"14,440","716,375","$49,610 ","$41,060 ","$8,907 ",Matching
+23,Fork In The Road,American (Traditional),4.5,144,2,30084,GEORGIA,Tucker,"15,589","677,729","$43,475 ","$37,451 ","$7,290 ",Matching
+193,Mr Fries Man,American (Traditional),4,33,2,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+360,Casseroles,American (Traditional),5,45,1,30306,GEORGIA,Atlanta,"12,266","840,840","$68,550 ","$55,718 ","$14,516 ",Matching
+549,Righteous Room,American (Traditional),4,145,1,30306,GEORGIA,Atlanta,"12,266","840,840","$68,550 ","$55,718 ","$14,516 ",Matching
+618,George's Restaurant & Bar,American (Traditional),4,173,2,30306,GEORGIA,Atlanta,"12,266","840,840","$68,550 ","$55,718 ","$14,516 ",Matching
+522,Murphy's,American (Traditional),4,1202,2,30306,GEORGIA,Atlanta,"12,266","840,840","$68,550 ","$55,718 ","$14,516 ",Matching
+292,Victory Sandwich Bar,American (Traditional),4,373,1,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+138,Folk Art Restaurant,American (Traditional),4,1072,2,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+282,Vortex Bar & Grill,American (Traditional),4,1373,2,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+650,H&F Burger,American (Traditional),3.5,522,2,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+590,Views Bar And Grill,American (Traditional),3,84,2,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+372,Hudson Grille,American (Traditional),3,552,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+119,The Nook On Piedmont Park,American (Traditional),3.5,974,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+456,Sugar Factory,American (Traditional),2.5,526,3,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+102,Rock's Chicken & Fries,American (Traditional),4,132,1,30326,GEORGIA,Atlanta,"1,688","151,035","$89,476 ","$117,370 ","$32,505 ",Matching
+620,HOBNOB Neighborhood Tavern - Dunwoody,American (Traditional),4,321,2,30346,GEORGIA,Atlanta,343,"43,417","$126,580 ","$67,101 ","$37,437 ",Matching
+659,Best Cajun Asian,Asian Fusion,3.5,19,1,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+302,Doc Chey's Noodle House,Asian Fusion,3.5,275,2,30306,GEORGIA,Atlanta,"12,266","840,840","$68,550 ","$55,718 ","$14,516 ",Matching
+4,Poor Calvin's,Asian Fusion,4.5,3868,3,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+9,Ponko Chicken,Asian Fusion,4.5,287,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+149,Publico Kitchen & Tap,Asian Fusion,4,658,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+163,Urban Wok,Asian Fusion,5,175,2,30319,GEORGIA,Atlanta,"17,884","1,411,878","$78,946 ","$60,526 ","$18,456 ",Matching
+399,Tin Drum Asian Kitchen - Lindbergh Plaza,Asian Fusion,3,202,1,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+460,Whealthy,Asian Fusion,4.5,43,2,30328,GEORGIA,Atlanta,"15,342","1,515,043","$98,751 ","$67,212 ","$23,526 ",Matching
+258,Takorea,Asian Fusion,4,444,2,30338,GEORGIA,Atlanta,"15,484","1,344,128","$86,808 ","$71,667 ","$19,352 ",Matching
+493,International Bakery,Bakeries,4,118,1,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+463,Sweet Auburn BBQ,Barbeque,4,709,2,30306,GEORGIA,Atlanta,"12,266","840,840","$68,550 ","$55,718 ","$14,516 ",Matching
+8,Fox Bros. Bar-B-Q,Barbeque,4.5,4098,2,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+120,The Original J.R. Crickets in Midtown Atlanta,Barbeque,3,335,2,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+19,Fat Matt's Rib Shack,Barbeque,4,2268,2,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+100,Fox Brothers Bar-B-Que Que-osk,Barbeque,4.5,72,2,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+390,Raging Burrito & Taco,Bars,4,760,2,30030,GEORGIA,Decatur,"12,299","530,683","$43,148 ","$37,815 ","$7,733 ",Matching
+333,Ms. Icey's Kitchen & Bar,Bars,4,691,2,30033,GEORGIA,Decatur,"14,440","716,375","$49,610 ","$41,060 ","$8,907 ",Matching
+616,Meehan's Public House - Downtown,Bars,3.5,454,2,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+266,Park Bar,Bars,4,563,2,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+256,Le Colonial - Atlanta,Bars,4,329,3,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+47,Two Urban Licks,Bars,4,3042,2,30306,GEORGIA,Atlanta,"12,266","840,840","$68,550 ","$55,718 ","$14,516 ",Matching
+591,Illuminarium Atlanta,Bars,2.5,127,3,30306,GEORGIA,Atlanta,"12,266","840,840","$68,550 ","$55,718 ","$14,516 ",Matching
+593,Lloyds Restaurant and Lounge,Bars,4,101,2,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+348,The Albert,Bars,4,316,2,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+220,The Independent,Bars,4,142,1,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+271,Blue India,Bars,4,317,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+574,Xhibit Studio Kitchen & Bar,Bars,3,15,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+339,Battle & Brew,Bars,4,302,2,30328,GEORGIA,Atlanta,"15,342","1,515,043","$98,751 ","$67,212 ","$23,526 ",Matching
+326,Brew and Bird,Beer Bar,4.5,170,2,30033,GEORGIA,Decatur,"14,440","716,375","$49,610 ","$41,060 ","$8,907 ",Matching
+474,Tribeca Buckhead,"Beer, Wine & Spirits",3.5,124,2,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+369,Nanas Chicken N Waffles,Breakfast & Brunch,4,865,2,30013,GEORGIA,Conyers,"7,605","349,961","$46,017 ","$40,581 ","$7,841 ",Matching
+268,Callie's Hot Little Biscuit,Breakfast & Brunch,3.5,375,1,30306,GEORGIA,Atlanta,"12,266","840,840","$68,550 ","$55,718 ","$14,516 ",Matching
+509,Gato,Breakfast & Brunch,4,311,1,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+467,Bread & Butterfly,Breakfast & Brunch,4,428,2,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+708,Egg Harbor Caf,Breakfast & Brunch,4.5,845,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+222,Flying Biscuit Caf - Midtown,Breakfast & Brunch,4,1733,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+158,Joy Cafe,Breakfast & Brunch,4.5,1116,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+691,The hive buckhead,Breakfast & Brunch,2.5,446,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+199,Bantam + Biddy,Breakfast & Brunch,3.5,585,2,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+142,Toast on Lenox,Breakfast & Brunch,4,331,2,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+31,Buttermilk Kitchen,Breakfast & Brunch,4.5,1934,2,30342,GEORGIA,Atlanta,"13,517","1,178,396","$87,179 ","$65,255 ","$20,854 ",Matching
+65,Yo! Chef What's Cooking?,Breakfast & Brunch,4,101,2,30345,GEORGIA,Atlanta,"9,719","617,379","$63,523 ","$49,935 ","$13,362 ",Matching
+698,Wrecking Bar Brewpub,Brewpubs,4,742,2,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+325,Sweet & Fresh,Bubble Tea,2.5,33,1,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+218,Bad Daddy's Burger Bar,Burgers,3.5,309,2,30030,GEORGIA,Decatur,"12,299","530,683","$43,148 ","$37,815 ","$7,733 ",Matching
+561,Lola's Burger and Tequila Bar,Burgers,4.5,108,2,30075,GEORGIA,Roswell,"21,656","1,696,164","$78,323 ","$69,072 ","$16,372 ",Matching
+297,Ted's Montana Grill - Luckie Street,Burgers,4,948,2,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+667,Wahlburgers,Burgers,2.5,101,2,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+214,Farm Burger - Buckhead,Burgers,4,767,1,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+169,Scoville Hot Chicken,Burgers,4,62,2,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+213,Shake Shack,Burgers,3.5,674,2,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+610,Farm Burger - Virginia Highland,Burgers,4,20,2,30306,GEORGIA,Atlanta,"12,266","840,840","$68,550 ","$55,718 ","$14,516 ",Matching
+555,Fred's Meat & Bread,Burgers,4,622,2,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+683,The Varsity,Burgers,3,2198,1,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+81,There on Fifth,Burgers,4.5,78,2,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+353,Farm Burger - Midtown Atlanta,Burgers,4,73,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+129,Sams Of San Francisco,Burgers,4,93,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+45,The Vortex Bar And Grill - Midtown,Burgers,4,1834,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+411,Atlanta Burger Tour,Burgers,5,7,3,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+706,Cluck N Mooh,Burgers,3.5,23,2,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+86,Grindhouse Killer Burgers,Burgers,4,1115,2,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+645,Grub Burger Bar,Burgers,4,352,2,30328,GEORGIA,Atlanta,"15,342","1,515,043","$98,751 ","$67,212 ","$23,526 ",Matching
+529,Le Bon Nosh,Cafes,4,47,2,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+457,Proscenium Cafe and Market,Cafes,4,13,1,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+206,Momonoki,Cafes,4,441,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+471,Bucket Shop Cafe,Cafes,3.5,263,2,30326,GEORGIA,Atlanta,"1,688","151,035","$89,476 ","$117,370 ","$32,505 ",Matching
+245,Louisiana Bistreaux - Decatur,Cajun/Creole,4,586,2,30030,GEORGIA,Decatur,"12,299","530,683","$43,148 ","$37,815 ","$7,733 ",Matching
+69,The Po'Boy Shop,Cajun/Creole,4.5,392,2,30033,GEORGIA,Decatur,"14,440","716,375","$49,610 ","$41,060 ","$8,907 ",Matching
+621,Pappadeaux Seafood Kitchen,Cajun/Creole,4,1470,2,30067,GEORGIA,Marietta,"22,549","1,403,307","$62,234 ","$46,666 ","$13,866 ",Matching
+95,The Food Shoppe,Cajun/Creole,4.5,849,2,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+42,Louisiana Bistreaux Buckhead,Cajun/Creole,4,328,2,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+191,Bon Ton,Cajun/Creole,4,523,2,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+419,Candytopia,Candy Stores,4,214,2,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+62,WEI Authentic Chinese,Cantonese,4.5,152,2,30519,GEORGIA,Buford,"6,401","344,706","$53,852 ","$47,776 ","$8,469 ",Matching
+404,The SOS Tiki Bar,Caribbean,4,194,2,30030,GEORGIA,Decatur,"12,299","530,683","$43,148 ","$37,815 ","$7,733 ",Matching
+131,Mangos Caribbean Restaurant,Caribbean,3,566,2,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+420,Irie Mon Cafe,Caribbean,4,123,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+92,SpiceHouse Buckhead,Caribbean,3.5,53,2,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+234,Scotchie's,Caribbean,4.5,56,2,30328,GEORGIA,Atlanta,"15,342","1,515,043","$98,751 ","$67,212 ","$23,526 ",Matching
+677,Big Dave's Cheesesteaks,Cheesesteaks,3.5,334,2,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+20,Woody's CheeseSteaks,Cheesesteaks,4,80,2,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+168,Philly Cheesesteak Place,Cheesesteaks,3,62,1,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+703,Gus's World Famous Fried Chicken,Chicken Shop,4,461,2,30328,GEORGIA,Atlanta,"15,342","1,515,043","$98,751 ","$67,212 ","$23,526 ",Matching
+273,Bonchon Fayetteville,Chicken Wings,4,225,2,30214,GEORGIA,Fayetteville,"11,485","614,616","$53,515 ","$46,849 ","$9,370 ",Matching
+298,The Wing Shack ATL,Chicken Wings,2,77,2,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+344,Local Expedition Wood Fired Grill,Chicken Wings,5,309,2,30328,GEORGIA,Atlanta,"15,342","1,515,043","$98,751 ","$67,212 ","$23,526 ",Matching
+664,Three Dollar Cafe,Chicken Wings,3,148,2,30342,GEORGIA,Atlanta,"13,517","1,178,396","$87,179 ","$65,255 ","$20,854 ",Matching
+73,Hai,Chinese,4,260,2,30033,GEORGIA,Decatur,"14,440","716,375","$49,610 ","$41,060 ","$8,907 ",Matching
+274,Hsu's Atlanta,Chinese,4,386,2,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+663,Lucky China,Chinese,3,85,1,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+51,Little Bangkok,Chinese,4,807,2,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+244,Su's Chinese Cuisine,Chinese,3,217,2,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+469,8ARM,Cocktail Bars,3.5,243,2,30306,GEORGIA,Atlanta,"12,266","840,840","$68,550 ","$55,718 ","$14,516 ",Matching
+636,Ticonderoga Club,Cocktail Bars,4.5,215,2,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+452,Buena Gente Cuban Bakery,Coffee & Tea,5,85,1,30033,GEORGIA,Decatur,"14,440","716,375","$49,610 ","$41,060 ","$8,907 ",Matching
+440,Golden Drops Caf,Coffee & Tea,4.5,294,1,30033,GEORGIA,Decatur,"14,440","716,375","$49,610 ","$41,060 ","$8,907 ",Matching
+421,El Viedo Local,Coffee & Tea,4.5,66,2,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+576,Huge x Brash,Coffee & Tea,4,46,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+446,Farmers Basket,Comfort Food,3.5,23,1,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+174,Palacsinta,Creperies,4.5,17,2,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+29,La Fonda Latina,Cuban,4,494,2,30306,GEORGIA,Atlanta,"12,266","840,840","$68,550 ","$55,718 ","$14,516 ",Matching
+71,Papi's Cuban & Caribbean Grill,Cuban,4,1073,2,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+201,Jack's New Yorker Deli,Delis,4,221,2,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+281,Tuscany at Your Table,Delis,4.5,41,1,30306,GEORGIA,Atlanta,"12,266","840,840","$68,550 ","$55,718 ","$14,516 ",Matching
+410,Grand Lux Cafe - Atlanta,Desserts,3.5,323,2,30326,GEORGIA,Atlanta,"1,688","151,035","$89,476 ","$117,370 ","$32,505 ",Matching
+164,Metro Caf Diner,Diners,3,578,2,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+412,Landmark Diner,Diners,2.5,355,2,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+417,The Majestic Diner,Diners,3.5,380,2,30306,GEORGIA,Atlanta,"12,266","840,840","$68,550 ","$55,718 ","$14,516 ",Matching
+304,Elbow Room Bar,Dive Bars,4,138,2,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+341,Moes and Joe's Tavern,Dive Bars,4,158,1,30306,GEORGIA,Atlanta,"12,266","840,840","$68,550 ","$55,718 ","$14,516 ",Matching
+162,The Dinner Shoppe,Do-It-Yourself Food,5,10,2,30030,GEORGIA,Decatur,"12,299","530,683","$43,148 ","$37,815 ","$7,733 ",Matching
+202,Sabor Dominicano,Dominican,4,81,1,30345,GEORGIA,Atlanta,"9,719","617,379","$63,523 ","$49,935 ","$13,362 ",Matching
+483,Mochibees,Donuts,4.5,61,2,30096,GEORGIA,Duluth,"21,571","1,057,292","$49,015 ","$43,266 ","$8,441 ",Matching
+453,Five Daughters Bakery,Donuts,4.5,269,2,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+482,Embilta Caf & Restaurant Ethiopian Cuisine,Ethiopian,4.5,153,2,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+235,Zaxby's Chicken Fingers & Buffalo Wings,Fast Food,2.5,142,1,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+382,Farmer's Basket,Fast Food,4,37,1,30326,GEORGIA,Atlanta,"1,688","151,035","$89,476 ","$117,370 ","$32,505 ",Matching
+175,Scoville Hot Chicken,Fast Food,4.5,263,2,30342,GEORGIA,Atlanta,"13,517","1,178,396","$87,179 ","$65,255 ","$20,854 ",Matching
+597,The Collective Food Hall at Coda,Food Court,3.5,5,2,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+300,Politan Row at Colony Square,Food Court,3.5,53,2,30361,GEORGIA,Atlanta,50,"3,904","$78,080 ","$142,500 ","$20,643 ",Matching
+224,Pretty Little Taco,Food Court,3.5,63,2,30361,GEORGIA,Atlanta,50,"3,904","$78,080 ","$142,500 ","$20,643 ",Matching
+57,Man vs Fries,Food Delivery Services,3.5,73,2,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+717,Nunn - Betta,Food Stands,4,1,1,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+15,El Burro Pollo,Food Stands,4.5,39,1,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+361,The Freakin Incan,Food Trucks,4.5,281,2,30075,GEORGIA,Roswell,"21,656","1,696,164","$78,323 ","$69,072 ","$16,372 ",Matching
+544,Nikolai's Roof,French,4,174,3,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+687,Tiny Lou's,French,4,211,2,30306,GEORGIA,Atlanta,"12,266","840,840","$68,550 ","$55,718 ","$14,516 ",Matching
+362,Leon's Full Service,Gastropubs,4,1063,2,30030,GEORGIA,Decatur,"12,299","530,683","$43,148 ","$37,815 ","$7,733 ",Matching
+405,Torched Hop Brewing,Gastropubs,4.5,413,2,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+602,Kafenio Avondale,Greek,4.5,140,2,30030,GEORGIA,Decatur,"12,299","530,683","$43,148 ","$37,815 ","$7,733 ",Matching
+87,Mediterranean Grill,Greek,4,337,1,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+145,The Halal Guys,Halal,3.5,133,1,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+702,Trader Vic's,Hawaiian,3.5,386,3,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+572,Poke City,Hawaiian,4,53,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+660,Ssong's Hot Dog - DULUTH,Hot Dogs,5,14,1,30096,GEORGIA,Duluth,"21,571","1,057,292","$49,015 ","$43,266 ","$8,441 ",Matching
+675,Oh K-Dog,Hot Dogs,4.5,21,1,30097,GEORGIA,Duluth,"10,318","1,192,442","$115,569 ","$92,733 ","$28,421 ",Matching
+93,The Original Hot Dog Factory,Hot Dogs,4,137,1,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+367,Ten Seconds Yunnan Rice Noodle,Hot Pot,4,73,2,30360,GEORGIA,Atlanta,"6,183","290,417","$46,970 ","$41,503 ","$8,361 ",Matching
+580,Zesto - Buckhead,Ice Cream & Frozen Yogurt,3.5,98,1,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+514,Chai Pani,Indian,4,909,2,30030,GEORGIA,Decatur,"12,299","530,683","$43,148 ","$37,815 ","$7,733 ",Matching
+594,Honest,Indian,4,144,1,30033,GEORGIA,Decatur,"14,440","716,375","$49,610 ","$41,060 ","$8,907 ",Matching
+345,Zyka: The Taste | Indian Restaurant | Decatur,Indian,4,746,2,30033,GEORGIA,Decatur,"14,440","716,375","$49,610 ","$41,060 ","$8,907 ",Matching
+400,NaanStop,Indian,4,305,1,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+148,Aamar Indian Cuisine,Indian,4.5,519,2,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+173,Botiwalla,Indian,4.5,490,2,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+578,Tabla,Indian,4,594,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+347,Biryani's Place,Indian,4.5,57,2,30328,GEORGIA,Atlanta,"15,342","1,515,043","$98,751 ","$67,212 ","$23,526 ",Matching
+243,Bismillah Cafe,Indian,4.5,325,1,30345,GEORGIA,Atlanta,"9,719","617,379","$63,523 ","$49,935 ","$13,362 ",Matching
+656,BrickStone Cafe,Italian,4,58,1,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+208,Amalfi Cucina & Mercato - Buckhead,Italian,4.5,17,2,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+229,Storico Vino,Italian,4,47,2,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+553,La Grotta Ristorante Italiano,Italian,4.5,329,3,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+478,La Tavola Trattoria,Italian,4,555,2,30306,GEORGIA,Atlanta,"12,266","840,840","$68,550 ","$55,718 ","$14,516 ",Matching
+416,BoccaLupo,Italian,4.5,604,2,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+615,Fritti,Italian,4,693,2,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+484,Bellina Alimentari,Italian,4,364,2,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+350,Campagnolo,Italian,4,379,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+312,Pasta Da Pulcinella,Italian,4,780,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+203,Mirko Pasta,Italian,4,260,2,30342,GEORGIA,Atlanta,"13,517","1,178,396","$87,179 ","$65,255 ","$20,854 ",Matching
+413,The Bowl,Japanese,4.5,349,2,30062,GEORGIA,Marietta,"28,755","1,786,637","$62,133 ","$55,082 ","$11,981 ",Matching
+539,Hibachi Express,Japanese,4,59,1,30084,GEORGIA,Tucker,"15,589","677,729","$43,475 ","$37,451 ","$7,290 ",Matching
+293,Mr. Hibachi,Japanese,3,33,1,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+435,Yumm Teriyaki,Japanese,2.5,80,1,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+477,Dragon Bowl,Japanese,3,211,2,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+316,Makimono,Japanese,4,171,2,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+184,Wagaya - Emory Village,Japanese,4,167,2,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+190,Extreme Teriyaki Grill Express,Japanese,4,74,1,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+269,Nakato Japanese Restaurant,Japanese,4,771,2,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+263,Shoya Izakaya,Japanese,4,982,2,30360,GEORGIA,Atlanta,"6,183","290,417","$46,970 ","$41,503 ","$8,361 ",Matching
+323,Blind Willie's,Jazz & Blues,4.5,103,2,30306,GEORGIA,Atlanta,"12,266","840,840","$68,550 ","$55,718 ","$14,516 ",Matching
+141,Sean's Harvest Market,Juice Bars & Smoothies,4.5,274,2,30306,GEORGIA,Atlanta,"12,266","840,840","$68,550 ","$55,718 ","$14,516 ",Matching
+694,Poetree Cafe,Korean,4,221,2,30024,GEORGIA,Suwanee,"12,607","943,439","$74,835 ","$67,880 ","$13,864 ",Matching
+355,K BBQ Taco,Korean,4.5,221,1,30030,GEORGIA,Decatur,"12,299","530,683","$43,148 ","$37,815 ","$7,733 ",Matching
+454,Tiger K Cupbob,Korean,4.5,99,1,30096,GEORGIA,Duluth,"21,571","1,057,292","$49,015 ","$43,266 ","$8,441 ",Matching
+517,Sokome,Korean,4.5,55,1,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+14,Blossom Tree,Korean,4.5,393,2,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+394,Suzy Siu's Baos,Korean,4,194,1,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+18,Mukja Korean Fried Chicken,Korean,4.5,202,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+137,Thrill Korean Steak and Bar,Korean,4.5,547,3,30328,GEORGIA,Atlanta,"15,342","1,515,043","$98,751 ","$67,212 ","$23,526 ",Matching
+500,Daejanggum Korean Cuisine,Korean,4,20,1,30360,GEORGIA,Atlanta,"6,183","290,417","$46,970 ","$41,503 ","$8,361 ",Matching
+397,Oh K-Dog Doraville,Korean,4.5,52,1,30360,GEORGIA,Atlanta,"6,183","290,417","$46,970 ","$41,503 ","$8,361 ",Matching
+657,Miss Gogi,Korean,4,319,2,30360,GEORGIA,Atlanta,"6,183","290,417","$46,970 ","$41,503 ","$8,361 ",Matching
+354,Snackboxe Bistro,Laotian,4,371,2,30360,GEORGIA,Atlanta,"6,183","290,417","$46,970 ","$41,503 ","$8,361 ",Matching
+253,Las Brasas,Latin American,4,302,2,30030,GEORGIA,Decatur,"12,299","530,683","$43,148 ","$37,815 ","$7,733 ",Matching
+359,Jimmy'z Kitchen Marietta,Latin American,4.5,87,2,30067,GEORGIA,Marietta,"22,549","1,403,307","$62,234 ","$46,666 ","$13,866 ",Matching
+414,Alma Cocina - Downtown,Latin American,4,1139,2,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+320,El Super Pan,Latin American,4,381,2,30306,GEORGIA,Atlanta,"12,266","840,840","$68,550 ","$55,718 ","$14,516 ",Matching
+63,Food Terminal - Sandy Springs,Malaysian,5,35,2,30328,GEORGIA,Atlanta,"15,342","1,515,043","$98,751 ","$67,212 ","$23,526 ",Matching
+507,Shields Meat Market,Meat Shops,3,35,3,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+13,Aviva by Kameel - Atlanta,Mediterranean,5,1623,2,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+99,Baraka Shawarma,Mediterranean,4.5,479,2,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+299,Lavash Mediterranean Grill,Mediterranean,4,120,1,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+178,Kabob Land,Mediterranean,3,263,2,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+603,Zoes Kitchen,Mediterranean,3.5,63,1,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+633,Aviva by Kameel Midtown,Mediterranean,5,54,2,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+502,Fresh 4 U Mediterranean Cafe,Mediterranean,4,118,1,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+378,Pita Mediterranean Street Food,Mediterranean,3.5,135,1,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+189,Cafe Agora Midtown,Mediterranean,4.5,333,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+194,Pasha Restaurant and Bar,Mediterranean,3.5,246,3,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+665,The Select,Mediterranean,4,389,3,30328,GEORGIA,Atlanta,"15,342","1,515,043","$98,751 ","$67,212 ","$23,526 ",Matching
+666,CAVA,Mediterranean,3,87,2,30338,GEORGIA,Atlanta,"15,484","1,344,128","$86,808 ","$71,667 ","$19,352 ",Matching
+448,Samad Mediterranean,Mediterranean,4.5,267,1,30350,GEORGIA,Atlanta,"16,664","1,398,604","$83,930 ","$62,571 ","$20,546 ",Matching
+139,El Indio Mexican Resturante & Taqueria,Mexican,4,174,2,30084,GEORGIA,Tucker,"15,589","677,729","$43,475 ","$37,451 ","$7,290 ",Matching
+241,The Original El Taco,Mexican,4,466,2,30306,GEORGIA,Atlanta,"12,266","840,840","$68,550 ","$55,718 ","$14,516 ",Matching
+386,Bell Street Burritos,Mexican,3.5,134,1,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+319,bartaco,Mexican,4,763,2,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+433,El Bandido Mex Mex Grill,Mexican,3.5,328,2,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+710,La Fonda Latina,Mexican,3.5,115,2,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+294,Tacos & Tequilas Mexican Grill,Mexican,3.5,697,2,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+438,Bell Street Burritos,Mexican,3.5,264,1,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+267,Yumbii,Mexican,4,313,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+226,Mercado Acapulco,Mexican,4,50,1,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+143,Mama's Cocina Latina,Mexican,3,215,2,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+402,Las Tortas Locas,Mexican,4,140,1,30328,GEORGIA,Atlanta,"15,342","1,515,043","$98,751 ","$67,212 ","$23,526 ",Matching
+503,Bartaco Chastain Park,Mexican,4,694,2,30342,GEORGIA,Atlanta,"13,517","1,178,396","$87,179 ","$65,255 ","$20,854 ",Matching
+371,Las Tortas Locas,Mexican,4,55,1,30345,GEORGIA,Atlanta,"9,719","617,379","$63,523 ","$49,935 ","$13,362 ",Matching
+604,Yalla,Middle Eastern,4,307,2,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+121,Rina,Middle Eastern,4.5,142,2,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+462,Babylon Cafe,Middle Eastern,3.5,174,2,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+575,Ecco Buckhead,Modern European,4,124,2,30326,GEORGIA,Atlanta,"1,688","151,035","$89,476 ","$117,370 ","$32,505 ",Matching
+431,BBMyun,Noodles,4.5,107,2,30096,GEORGIA,Duluth,"21,571","1,057,292","$49,015 ","$43,266 ","$8,441 ",Matching
+59,Delbar Middle Eastern,Persian/Iranian,4.5,394,3,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+714,Sufi's,Persian/Iranian,4,403,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+246,Rumi's Kitchen,Persian/Iranian,4,1498,3,30328,GEORGIA,Atlanta,"15,342","1,515,043","$98,751 ","$67,212 ","$23,526 ",Matching
+623,Crazy Atlanta,Pizza,3.5,92,1,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+154,Amalfi Cucina & Mercato,Pizza,4,857,2,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+668,Slice Downtown,Pizza,3.5,217,2,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+116,Fellini's Pizza Buckhead,Pizza,4,360,1,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+629,Blue Moon Pizza,Pizza,4,290,2,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+336,Piu Bello Buckhead,Pizza,4,312,2,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+284,Fellini's Pizza,Pizza,4,555,1,30306,GEORGIA,Atlanta,"12,266","840,840","$68,550 ","$55,718 ","$14,516 ",Matching
+639,Plant Based Pizzeria,Pizza,4.5,324,2,30306,GEORGIA,Atlanta,"12,266","840,840","$68,550 ","$55,718 ","$14,516 ",Matching
+559,Savage Pizza,Pizza,4,400,2,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+651,Vinny's New York Pizza,Pizza,4,241,1,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+696,Atwoods Pizza Cafe,Pizza,4,264,2,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+515,Mellow Mushroom - Atlanta,Pizza,3.5,299,2,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+480,DaVinci's Pizzeria,Pizza,3.5,469,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+307,Vinny's NY Pizza,Pizza,3.5,70,1,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+43,Gino's NY Pizza Bar,Pizza,3,367,2,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+495,Varuni Napoli,Pizza,4,524,2,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+624,Buckhead Pizza,Pizza,3,495,2,30326,GEORGIA,Atlanta,"1,688","151,035","$89,476 ","$117,370 ","$32,505 ",Matching
+470,Fellini's Pizza,Pizza,4,275,1,30342,GEORGIA,Atlanta,"13,517","1,178,396","$87,179 ","$65,255 ","$20,854 ",Matching
+305,BullGogi,Poke,4.5,222,1,30033,GEORGIA,Decatur,"14,440","716,375","$49,610 ","$41,060 ","$8,907 ",Matching
+125,DUA Vietnamese Noodle Soup,Poke,4.5,108,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+78,Wheelhouse Craft Pub And Kitchen,Pubs,4.5,93,2,30030,GEORGIA,Decatur,"12,299","530,683","$43,148 ","$37,815 ","$7,733 ",Matching
+94,The Porter Beer Bar,Pubs,4.5,1077,2,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+16,Kinnotori Ramen Bar,Ramen,4.5,144,2,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+430,Ton Ton,Ramen,4,623,2,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+49,E Ramen +,Ramen,4.5,300,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+36,Silverlake Ramen,Ramen,4,111,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+649,Hajime,Ramen,4,517,2,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+118,JINYA Ramen Bar - Sandy Springs,Ramen,4.5,1419,2,30328,GEORGIA,Atlanta,"15,342","1,515,043","$98,751 ","$67,212 ","$23,526 ",Matching
+1,JINYA Ramen Bar - Buckhead,Ramen,4.5,1021,2,30342,GEORGIA,Atlanta,"13,517","1,178,396","$87,179 ","$65,255 ","$20,854 ",Matching
+556,The Deer and The Dove,Restaurants,4,79,2,30030,GEORGIA,Decatur,"12,299","530,683","$43,148 ","$37,815 ","$7,733 ",Matching
+311,Gusto,Salad,4.5,315,2,30306,GEORGIA,Atlanta,"12,266","840,840","$68,550 ","$55,718 ","$14,516 ",Matching
+136,Cypress Street Pint & Plate,Salad,4,1381,2,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+608,The Usual Kitchen and Bar,Salad,5,8,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+690,Chopt Creative Salad Co.,Salad,3,69,2,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+338,Wings 101,Salad,3.5,217,2,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+547,Flower Child,Salad,4.5,302,2,30326,GEORGIA,Atlanta,"1,688","151,035","$89,476 ","$117,370 ","$32,505 ",Matching
+424,Brack's Kitchen,Salad,4.5,95,2,30342,GEORGIA,Atlanta,"13,517","1,178,396","$87,179 ","$65,255 ","$20,854 ",Matching
+108,Sidechick,Sandwiches,4.5,170,1,30030,GEORGIA,Decatur,"12,299","530,683","$43,148 ","$37,815 ","$7,733 ",Matching
+685,Just Around the Corner,Sandwiches,4,78,1,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+711,Reuben's Deli,Sandwiches,4,321,1,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+670,Hecter's Kitchen,Sandwiches,5,8,2,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+426,Dave's Cosmic Subs,Sandwiches,4,242,1,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+674,Panera Bread,Sandwiches,2,128,1,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+705,Recess,Sandwiches,4,125,2,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+104,Woody's  CheeseSteaks,Sandwiches,3.5,732,1,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+455,Fresh To Order,Sandwiches,4,418,2,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+479,Fresh To Order,Sandwiches,3.5,191,2,30326,GEORGIA,Atlanta,"1,688","151,035","$89,476 ","$117,370 ","$32,505 ",Matching
+715,Wild Crab,Seafood,3.5,208,2,30030,GEORGIA,Decatur,"12,299","530,683","$43,148 ","$37,815 ","$7,733 ",Matching
+678,Crazy Crab,Seafood,4,134,2,30084,GEORGIA,Tucker,"15,589","677,729","$43,475 ","$37,451 ","$7,290 ",Matching
+328,Tredericks Seafood & Grill,Seafood,4,94,2,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+254,Ray's In the City - Atlanta,Seafood,4,1017,3,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+140,Nowak's,Seafood,4,122,3,30306,GEORGIA,Atlanta,"12,266","840,840","$68,550 ","$55,718 ","$14,516 ",Matching
+126,BeetleCat,Seafood,4,1074,2,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+123,Steamhouse Lounge,Seafood,4,896,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+287,The Boiler Seafood And Crab Boil Atlanta,Seafood,2.5,176,3,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+207,Big Bs Fish Joint,Seafood,4,224,2,30342,GEORGIA,Atlanta,"13,517","1,178,396","$87,179 ","$65,255 ","$20,854 ",Matching
+640,Crab404,Seafood,3.5,404,2,30342,GEORGIA,Atlanta,"13,517","1,178,396","$87,179 ","$65,255 ","$20,854 ",Matching
+537,Atlanta Smokehouse,Smokehouse,4.5,17,2,30067,GEORGIA,Marietta,"22,549","1,403,307","$62,234 ","$46,666 ","$13,866 ",Matching
+613,The BQE Restaurant & Lounge,Soul Food,3.5,1258,2,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+692,Soul: Food & Culture,Soul Food,3.5,29,2,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+48,Gus's World Famous Fried Chicken,Southern,4,1473,2,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+124,Kelz Kitchen - Atlanta,Southern,3,206,2,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+277,Sweet Georgia's Juke Joint,Southern,3.5,1299,2,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+2,Hattie B's Hot Chicken - Atlanta,Southern,4.5,1819,2,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+264,Eats,Southern,4,571,1,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+39,Mary Mac's Tea Room,Southern,4,4283,2,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+442,Rowdy Tiger Whiskey Bar & Kitchen,Southern,4,143,2,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+240,Sway,Southern,4,462,2,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+573,Empire State South,Southern,4,807,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+186,Peach Cobbler Cafe,Southern,2.5,200,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+32,South City Kitchen Midtown,Southern,4.5,2816,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+558,Colonnade Restaurant,Southern,4,483,2,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+68,Roasters,Southern,4,410,2,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+64,South City Kitchen Buckhead,Southern,4.5,854,2,30326,GEORGIA,Atlanta,"1,688","151,035","$89,476 ","$117,370 ","$32,505 ",Matching
+21,Bar-Bacoa,Spanish,4.5,208,2,30306,GEORGIA,Atlanta,"12,266","840,840","$68,550 ","$55,718 ","$14,516 ",Matching
+309,Barcelona Inman Park,Spanish,4,1303,2,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+109,Buena Vida Tapas & Sol,Spanish,4.5,232,2,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+150,Botica,Spanish,4,180,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+41,Bulla Gastrobar,Spanish,4.5,696,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+693,PushStart Kitchen,Specialty Food,5,12,3,30301,GEORGIA,Atlanta,932,"123,848","$132,884 ","$61,430 ","$27,182 ",Matching
+373,Irby's Tavern,Sports Bars,4,111,2,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+569,Red Pepper Taqueria,Sports Bars,3.5,567,2,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+351,Twin Peaks,Sports Bars,3,668,2,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+133,Black Bear Tavern,Sports Bars,4,154,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+721,Red Pepper Taqueria,Sports Bars,3.5,149,2,30319,GEORGIA,Atlanta,"17,884","1,411,878","$78,946 ","$60,526 ","$18,456 ",Matching
+303,Passador Brazilian Steakhouse,Steakhouses,5,108,3,30022,GEORGIA,Alpharetta,"19,788","2,072,690","$104,745 ","$85,138 ","$24,209 ",Matching
+385,Bones,Steakhouses,4.5,1085,4,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+543,Alluvia,Steakhouses,4.5,11,3,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+611,Steak Market,Steakhouses,3,55,4,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+237,Doggy Dogg Atlanta,Street Vendors,5,1,1,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+532,"Saito - Sushi, Steak and Cocktails",Sushi Bars,4,54,2,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+285,Ocean Wave By Harry And Sons,Sushi Bars,4,460,2,30306,GEORGIA,Atlanta,"12,266","840,840","$68,550 ","$55,718 ","$14,516 ",Matching
+160,Thaicoon & Sushi Bar,Sushi Bars,4,387,2,30306,GEORGIA,Atlanta,"12,266","840,840","$68,550 ","$55,718 ","$14,516 ",Matching
+374,Falafel King,Sushi Bars,4,265,1,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+541,Nagomiya,Sushi Bars,4,63,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+648,Nova Sushi Bar & Asian Bistro,Sushi Bars,4,322,2,30319,GEORGIA,Atlanta,"17,884","1,411,878","$78,946 ","$60,526 ","$18,456 ",Matching
+571,Fire Stone Chinese Cuisine,Szechuan,4.5,415,2,30144,GEORGIA,Kennesaw,"17,316","882,122","$50,943 ","$45,502 ","$8,427 ",Matching
+91,Urban Wu,Szechuan,4,329,2,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+396,Chandos Tacos,Tacos,3.5,35,2,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+27,Velvet Taco,Tacos,4,363,2,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+12,Rreal Tacos,Tacos,4,520,2,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+306,Eclipse Di Luna,Tapas Bars,4,874,2,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+568,Tin Lizzy's Cantina,Tex-Mex,3.5,357,2,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+340,Tex's Tacos,Tex-Mex,4.5,141,1,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+330,Superica,Tex-Mex,4,1045,2,30307,GEORGIA,Atlanta,"8,251","483,693","$58,622 ","$47,414 ","$12,642 ",Matching
+393,Tin Lizzy's Taco Americana,Tex-Mex,4,49,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+67,Little Rey,Tex-Mex,4,356,1,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+228,Superica,Tex-Mex,4,628,2,30342,GEORGIA,Atlanta,"13,517","1,178,396","$87,179 ","$65,255 ","$20,854 ",Matching
+265,Bangkok Station,Thai,4,430,2,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+239,Canton Buddha,Thai,3,178,2,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+221,Tamsung Thai Street Eats,Thai,4.5,122,2,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+504,Mali Restaurant,Thai,4,415,2,30306,GEORGIA,Atlanta,"12,266","840,840","$68,550 ","$55,718 ","$14,516 ",Matching
+128,26 Thai Kitchen & Bar - Midtown,Thai,4.5,274,2,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+117,Bangkok Thai Restaurant,Thai,4,219,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+188,Tuk Tuk Thai Food Loft,Thai,4,922,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+10,26 Thai Kitchen & Bar,Thai,4.5,806,2,30324,GEORGIA,Atlanta,"10,983","604,700","$55,058 ","$46,404 ","$11,365 ",Matching
+111,Silom Thai & Sushi,Thai,4,233,2,30326,GEORGIA,Atlanta,"1,688","151,035","$89,476 ","$117,370 ","$32,505 ",Matching
+216,De One Roti Shop,Trinidadian,4,92,2,30078,GEORGIA,Snellville,"8,652","394,622","$45,610 ","$40,006 ","$7,766 ",Matching
+259,Cafe Agora,Turkish,4,771,2,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+26,Truva Turkish Kitchen-Highland,Turkish,4.5,176,2,30306,GEORGIA,Atlanta,"12,266","840,840","$68,550 ","$55,718 ","$14,516 ",Matching
+196,R. Thomas Deluxe Grill,Vegan,4,1106,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+56,True Food Kitchen,Vegan,4,1386,2,30326,GEORGIA,Atlanta,"1,688","151,035","$89,476 ","$117,370 ","$32,505 ",Matching
+589,Cafe Sunflower Buckhead,Vegetarian,4.5,677,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+337,Arepa Mia,Venezuelan,4,323,2,30002,GEORGIA,Avondale Estates,"2,877","126,990","$44,140 ","$37,416 ","$7,733 ",Matching
+22,The Hungry Peach,Venues & Event Spaces,4.5,58,2,30305,GEORGIA,Atlanta,"14,265","1,992,461","$139,675 ","$103,339 ","$42,238 ",Matching
+157,McCray's Tavern Midtown,Venues & Event Spaces,4,197,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+584,Dua Vietnamese,Vietnamese,4,408,2,30303,GEORGIA,Atlanta,"1,746","80,603","$46,164 ","$42,587 ","$33,834 ",Matching
+134,Anh's Kitchen,Vietnamese,4,228,2,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+35,Lady Ha,Vietnamese,4.5,40,2,30308,GEORGIA,Atlanta,"5,950","308,468","$51,843 ","$34,477 ","$10,750 ",Matching
+88,Bun Mi Vietnamese Grill,Vietnamese,4.5,159,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+718,Pho King,Vietnamese,3.5,258,2,30309,GEORGIA,Atlanta,"10,405","932,807","$89,650 ","$58,739 ","$21,141 ",Matching
+619,Lee's Bakery,Vietnamese,4,1008,1,30345,GEORGIA,Atlanta,"9,719","617,379","$63,523 ","$49,935 ","$13,362 ",Matching
+585,Pho Dai Loi 2,Vietnamese,4,1068,2,30345,GEORGIA,Atlanta,"9,719","617,379","$63,523 ","$49,935 ","$13,362 ",Matching
